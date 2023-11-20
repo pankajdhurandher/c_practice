@@ -1,5 +1,5 @@
 #include<stdio.h>
-#include "qus_solution/qus_30.c"
+#include "qus_solution/qus_54.c"
 
 int main (){
     ekke_number_sabbo_bar();

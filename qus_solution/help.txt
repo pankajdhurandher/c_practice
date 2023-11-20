@@ -1,0 +1,230 @@
+question 1  : Write a program to calculate perimeter of rectangle.
+
+question 2  : Take a number(n) from user & output its cube(n*n*n).
+
+question 3  : Area of circle.
+
+question 4  : Area os square.
+
+question 5  : Write a program to print the average of 3 numbers.
+
+question 6  : Write a program to check if given character is digit/char./sp.char...????????????
+
+question 7  : Write a program to print the smallest number of two.
+
+question 8  : print an array in C.
+
+question 9  : Program to calculate sum and avg of an array.
+
+question 10 : Program to find the largest\2nd largest\ smallest element of an array.
+
+question 11 : Sum of nth term using recursion.
+
+question 12 : factorial of nth term using recursion.
+
+
+question 13 : Write a program to check if a given number is Armstrong number or not.
+
+question 14 : Write a program to check if the given number is a natural number. (Natural numbers start from 1)
+
+question 15 : Write a function to find sum of digits of a number.
+
+question 16 : Prime number.
+
+question 34 : Fibonacci sequence ..... recursion .....
+
+                                      MATRIX
+
+question 35 : sum of two 2x2 Matrix.
+question 36 : subtraction of 2x2 Matrix.
+question 37 : Transpose of a 2x2 Matrix.
+question 38 : Dot product of 2x2 Matrix.
+question 39 : Sum of 3x3 Matrix.
+question 40 : subtraction of 3x3 Matrix.
+question 41 : Transpose of a 3x3 Matrix.
+question 42 : dot product of 3x3 matrix.
+
+
+                                            DIAGRAM    --   STRUCTURE
+
+
+question 17 :  sum of nth number { A/C to NB }
+
+question 18 :       *
+                    *  *
+                    *  *  * .....
+
+question 19 :                         *
+                                     **
+                                    ***
+                                   ****
+                                  *****
+                                 ******
+
+question 20 :          ****$
+                       ***$$
+                       **$$$
+                       *$$$$
+
+
+
+question 21 :       *
+                   *  *
+                  *  *  *                  { QUS 19 KE LAST KE PRINTF("*") MAI JUST EK SPACE ADD RNA HAI
+                 *  *  *  *                    LIKE PRINTF(" * ") THAT`S IT }
+                *  *  *  *  *
+               *  *  *  *  *  *
+
+
+question 29 :              *
+                         * * *
+                       * * * * *
+                     * * * * * * *
+                   * * * * * * * * *
+
+
+
+question 22 :  *  *  *  *  *
+               *  *  *  *
+               *  *  *
+               *  *
+               *
+
+question 33 :                               *  *  *  *  *        output same hai pr code alg alg hai
+                                            *  *  *  *
+                                            *  *  *
+                                            *  *
+                                            *
+
+question 23 :  ******
+                *****
+                 ****
+                  ***
+                   **
+                    *
+
+
+question 24 :   *  *  *  *  *  *
+                 *  *  *  *  *                         { QUS 23 KE LAST KE PRINTF("*") MAI JUST EK SPACE ADD RNA HAI
+                  *  *  *  *
+                   *  *  *                               LIKE PRINTF(" * ") THATS IT }
+                    *  *
+                     *
+
+
+qus : 30   :       * * * * * * * * *
+                     * * * * * * *
+                       * * * * *
+                         * * *
+                           *
+
+
+question 25 : *****
+               *****
+                *****
+                 *****
+                  *****
+
+ question 26 :     *
+                  *  *
+                 *  *  *
+                *  *  *  *
+                 *  *  *
+                  *  *
+                   *
+
+question 31 :                                 1
+                                            1 2 3
+                                          1 2 3 4 5
+                                        1 2 3 4 5 6 7
+                                          1 2 3 4 5
+                                            1 2 3
+                                              1
+
+
+
+ question 27 :   *  *  *  *
+                  *  *  *
+                   *  *
+                    *
+                    *
+                  *  *
+                 *  *  *
+                *  *  *  *
+
+
+ question 28 :  *  *  *  *
+                   .
+                 *  *  *
+                  .  .
+                  *  *
+                 .  .  .
+                   *
+                .  .  .  .
+
+
+question 29 :   question : 21 ke baad
+
+question 30 : question : 24 ke baad
+
+question 31 :   question : 26 ke baad
+
+question 32 :  1 2 3 4 5
+                 1 2 3
+                   1
+                 1 2 3
+               1 2 3 4 5
+
+
+question 34 : Fibonacci sequence  recursion     .before diagram/structure.
+
+question 35 to 42 : before DIAGRAM    --   STRUCTURE
+
+
+
+                                       NUMBER ___ SERIES
+
+question 43 : Fibonacci Series.   for loop
+
+question 34 : Fibonacci sequence  recursion     .before diagram/structure.
+
+question 44 : Palindrome number. if we reverse a number then then it is same as first one then the number is called palindrome number...
+
+question 45 : Prime number.
+
+question 46 : Factorial using loops.
+
+question 12 : factorial of nth term using recursion.
+
+question 47 : Armstrong number .
+
+question 48 : Sum of Digits .
+
+question 49 : reverse of a digits .
+
+question 50 : Swap two numbers with using third variable .
+
+question 51 : Swap two numbers with using third variable .
+
+question 52a : sum of the two number without using + operator.[ using for loop]
+
+question 52b : sum of the two number without using + operator. [ using while loop]
+
+question 53 : Different ways to print hello error without using semicolon (;).
+
+question 54 : convert Number in Characters like 123 = one two three .
+
+question 55 :
+
+question 51 :
+
+question 51 :
+
+question 51 :
+
+question 51 :
+
+
+
+C:\Users\ADMIN\AppData\Local\Packages\38833FF26BA1D.UnigramPreview_g9c9v27vpyspw\LocalState\0\documents
+
